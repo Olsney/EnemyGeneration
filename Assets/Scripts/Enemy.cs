@@ -1,10 +1,7 @@
-﻿using System.Timers;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    private float _velocity = 10f;
-
     private Vector3 _direction;
     private Vector3 _rotation;
 
