@@ -32,6 +32,4 @@ public class TargetWaypointMovement : MonoBehaviour
         if (_currentPointIndex >= _points.Length)
             _currentPointIndex = 0;
     }
-    
-    
 }
